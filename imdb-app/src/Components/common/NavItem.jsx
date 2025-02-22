@@ -1,5 +1,5 @@
 "use client"
-import error from '@/app/error';
+import Error from '@/app/error';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import React, { Suspense } from 'react';
@@ -20,7 +20,7 @@ const NavItemContent = ({ title, param }) => {
 };
 
 const NavItem = (props) => (
-    <Suspense fallback={error}>
+    <Suspense fallback={Error}>
         <NavItemContent {...props} />
     </Suspense>
 );
