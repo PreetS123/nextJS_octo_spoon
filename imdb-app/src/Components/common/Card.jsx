@@ -16,7 +16,7 @@ const Card = ({ singleCardEle }) => {
     overview,
   } = singleCardEle;
   let short_name = name?.slice(0, 8);
-  console.log("khjhsjk", singleCardEle);
+  // console.log("khjhsjk", singleCardEle);
   return (
     <div className="group cursor-pointer sm:hover:shadow-slate-400 sm:shadow-md rounded-lg sm:border-slate-400 sm:m-2 transition-shadow duration-200 p-2">
       <Link href={`/movie/${singleCardEle.id}`}>
