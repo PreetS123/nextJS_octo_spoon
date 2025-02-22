@@ -17,9 +17,9 @@ const About = () => {
       <p>
         The site&apos;s message boards were disabled in February 2017. As of
         2024, IMDb was the 51st most visited website on the Internet, as ranked
-        by Semrush.As of March 2022, the database contained some 10.1
-        million titles (including television episodes), 11.5 million person
-        records, and 83 million registered users.
+        by Semrush.As of March 2022, the database contained some 10.1 million
+        titles (including television episodes), 11.5 million person records, and
+        83 million registered users.
       </p>
       <p>
         The title and talent pages of IMDb are accessible to all users, but only
