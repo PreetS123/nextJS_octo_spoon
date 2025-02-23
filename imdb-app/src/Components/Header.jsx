@@ -1,3 +1,4 @@
+import "../app/globals.css";
 import React from "react";
 import MenuItem from "./common/MenuItem";
 import { AiFillHome } from "react-icons/ai";
