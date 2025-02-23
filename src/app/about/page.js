@@ -4,7 +4,7 @@ import React from "react";
 const About = () => {
   return (
     <div className="max-w-6xl mx-auto p-3 space-y-3">
-      <h1 className="text-2xl text-amber-600 font-medium ">About</h1>
+      <h1 className="text-2xl text-amber-600 font-medium ">About IMDb Clone</h1>
       <p>
         The Internet Movie Database (IMDb) is an online database of information
         related to films, television series, podcasts, home videos, video games,
